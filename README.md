@@ -862,7 +862,7 @@ img {
 
 ## OUTPUT
 
-images/output.png
+<img width="1920" height="1037" alt="image" src="https://github.com/user-attachments/assets/961f77cd-d996-444a-9712-bd171221ec4a" />
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
